@@ -1,0 +1,44 @@
+body {
+    background: black;
+    font: 13em/3 arabic-indic;
+}
+
+svg {
+    position: absolute;
+    width: 90%;
+    height: 90%;
+}
+
+.name {
+    stroke-dasharray: 10% 20%;
+    stroke-width: 12px;
+    animation: nameanimation 8s infinite linear;
+    fill: none;
+    stroke: white;
+}
+
+.name:nth-child(1) {
+    stroke: pink;
+    stroke-dashoffset: 10%;
+}
+
+.name:nth-child(2) {
+    stroke: cyan;
+    stroke-dashoffset: 20%;
+}
+
+.name:nth-child(3) {
+    stroke: white;
+    stroke-dashoffset: 30%;
+}
+
+.name:nth-child(4) {
+    stroke: purple;
+    stroke-dashoffset: 40%;
+}
+
+@keyframes nameanimation {
+    100% {
+        stroke-dasharray: 4 160%;
+    }
+}
