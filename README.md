@@ -18,9 +18,11 @@ para o meu futuro.
 <a href="https://linkedin.com/in/aline-otília-a647b11ab" target="_blank" rel="nofollow"><img src="https://camo.githubusercontent.com/26f518083dbe4a3ae6d2ac8d00f1423e8069e94f6d307f28e52406e5cf0cc550/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d626c61636b3f7374796c653d666c6174266c6f676f3d56697375616c2d53747564696f266c6f676f436f6c6f723d626c7565" alt="VSCode" data-canonical-src="https://img.shields.io/badge/-VSCode-black?style=flat&amp;logo=Visual-Studio&amp;logoColor=blue" style="max-width: 100%;"></a><a href="https://linkedin.com/in/aline-otília-a647b11ab" rel="nofollow"></a></p>
 </article>
           </div>
-      </div>
+ 
+ 
+![aline-otilia](https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hqoh7pszeo9cmysgdwzjsiumyzw01odux7k10f4c&rid=giphy.gif&ct=g)
       
-      
+     
     
 
 
