@@ -1,16 +1,28 @@
 # Hello, bem-vindo ao meu github!!!<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h1>
+## Olá! Eu sou a Aline 👋
+Atualmente, trabalho como Técnica em Informática, onde tenho adquirido experiência </br>
+prática em tecnologia, mas meu verdadeiro foco está no desenvolvimento de sistemas. </br>
+Comecei a estudar Desenvolvimento de Sistemas na Etec Comendador João Rays, e mesmo </br>
+com o tempo corrido e os desafios do dia a dia, continuo me dedicando a aprender programação </br>
+e aprimorar minhas habilidades.
 
-Meu nome é Aline, estou estudando Desenvolvimento de Sistemas</br>
-na Etec 'Comendador João Rays'de Barra Bonita-SP. Eu nunca trabalhei na área</br>
-de tecnologia, mas pelo pouco tempo que iniciei, percebi que é algo que quero</br>
-para o meu futuro.
-
-## Pontos em destaques:
+## 🚀 Minha jornada:
 <ul>
-  <li> 👨🏽‍💻 Estou trabalhando para melhorar minhas hard skills e soft skills;</li>
-   <li> 🌱 No momento estou aprendendo Front-end, Banco de Dados II e Ionic no curso;</li>
-   <li> 🎯 Eu estou procurando um estágio;</li>
-  <li>📫 Como chegar até mim: aos_santos@hotmail.com; </il>
+  <li> 🖥️ Técnica em Informática concursada, com experiência no setor público, mas com o desejo de expandir para o desenvolvimento de software.</li>
+
+  <li> 📚 Em constante aprendizado de Lógica de Programação, Linguagens de Programação e Banco de Dados.</li>
+
+  <li> 🎯 Objetivo: Estou buscando uma oportunidade de estágio na área de Desenvolvimento de Sistemas para colocar em prática meus conhecimentos e aprender ainda mais com profissionais da área.</li>
+</ul>
+## 💡 O que eu busco:
+<ul>
+  <li> 👨🏽‍💻 Melhorar minhas hard skills (como programação e banco de dados) e minhas soft skills (como trabalho em equipe, comunicação e gestão de tempo).</li>
+  <li> 🌱 Estou me dedicando ao estudo contínuo, apesar das demandas diárias, com foco em Lógica de Programação, Front-end, Back-end e Banco de Dados.</li>
+</ul>
+
+## 📬 Como me encontrar:
+<ul>
+  <li>Email: aos_santos@hotmail.com</li>
 </ul>
 
 <p dir="auto"><strong>Linguagens e ferramentas:</strong></p>
