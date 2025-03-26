@@ -8,16 +8,20 @@ e aprimorar minhas habilidades.
 
 ## 🚀 Minha jornada:
 <ul>
-  <li> 🖥️ Técnica em Informática concursada, com experiência no setor público, mas com o desejo de expandir para o desenvolvimento de software.</li>
+  <li> 🖥️ Técnica em Informática concursada, com experiência no setor público, mas com o </br>
+  desejo de expandir para o desenvolvimento de software.</li>
 
   <li> 📚 Em constante aprendizado de Lógica de Programação, Linguagens de Programação e Banco de Dados.</li>
 
-  <li> 🎯 Objetivo: Estou buscando uma oportunidade de estágio na área de Desenvolvimento de Sistemas para colocar em prática meus conhecimentos e aprender ainda mais com profissionais da área.</li>
+  <li> 🎯 Objetivo: Estou buscando uma oportunidade de estágio na área de Desenvolvimento de Sistemas </br>
+  para colocar em prática meus conhecimentos e aprender ainda mais com profissionais da área.</li>
 </ul>
 ## 💡 O que eu busco:
 <ul>
-  <li> 👨🏽‍💻 Melhorar minhas hard skills (como programação e banco de dados) e minhas soft skills (como trabalho em equipe, comunicação e gestão de tempo).</li>
-  <li> 🌱 Estou me dedicando ao estudo contínuo, apesar das demandas diárias, com foco em Lógica de Programação, Front-end, Back-end e Banco de Dados.</li>
+  <li> 👨🏽‍💻 Melhorar minhas hard skills (como programação e banco de dados) e minhas soft skills </br>
+  (como trabalho em equipe, comunicação e gestão de tempo).</li>
+  <li> 🌱 Estou me dedicando ao estudo contínuo, apesar das demandas diárias, com foco em Lógica </br>
+  de Programação, Front-end, Back-end e Banco de Dados.</li>
 </ul>
 
 ## 📬 Como me encontrar:
@@ -33,7 +37,6 @@ e aprimorar minhas habilidades.
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></a> 
 </div>
 
-</article>
 </br>
 
 ![aline-otilia](https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hqoh7pszeo9cmysgdwzjsiumyzw01odux7k10f4c&rid=giphy.gif&ct=g)
