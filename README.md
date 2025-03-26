@@ -16,6 +16,7 @@ e aprimorar minhas habilidades.
   <li> 🎯 Objetivo: Estou buscando uma oportunidade de estágio na área de Desenvolvimento de Sistemas </br>
   para colocar em prática meus conhecimentos e aprender ainda mais com profissionais da área.</li>
 </ul>
+
 ## 💡 O que eu busco:
 <ul>
   <li> 👨🏽‍💻 Melhorar minhas hard skills (como programação e banco de dados) e minhas soft skills </br>
